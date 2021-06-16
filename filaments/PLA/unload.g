@@ -7,4 +7,4 @@ G1 E-580 F3000 ; Retract 580mm of filament at 50mm/s
 M400 ; Wait for the moves to finish
 M82 ; switch to absolute positioning
 G92 E0 ; reset extruder value
-M104 S0 ; turn off hotend
+M0 ; turn machine off

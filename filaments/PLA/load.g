@@ -8,4 +8,4 @@ G1 E200 F300 ; Extrude 200mm of filament at 5mm/s
 M400 ; Wait for the moves to finish
 M82 ; switch to absolute positioning
 G92 E0 ; reset extruder value
-M104 S0 ; turn off hotend
+M0 ; turn machine off
