@@ -12,3 +12,6 @@ This only works if you have SKR 1.3 version of the FLsun SuperRacer. You will al
 1) Run macro to measure Z-probe height
 2) Run macro to calibrate frame & bed
 3) If you get heater errors, run the PID tuning macros
+
+# Use at your own risk!
+I am not liable for any damage caused by using my code.
